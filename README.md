@@ -11,5 +11,3 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyywyy23&layout=compact&hide_border=true"
 </picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyywyy23&layout=compact)
